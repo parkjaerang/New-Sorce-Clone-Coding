@@ -44,7 +44,7 @@ header {
 }
 
 header .header_i {
-    height: 7vh;
+    min-height: 7vh;
     padding: 0 40px;
     color: #fff;
     display: flex;
